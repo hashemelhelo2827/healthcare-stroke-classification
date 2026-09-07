@@ -43,7 +43,7 @@ The project uses the [Healthcare Stroke Dataset](https://www.kaggle.com/datasets
    ```
 3. Open the notebook:
    ```bash
-   jupyter notebook "Task (1).ipynb"
+    jupyter notebook stroke_prediction.ipynb
    ```
 
 ## Contributors
